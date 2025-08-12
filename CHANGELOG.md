@@ -17,7 +17,7 @@
   - Mods
     - none
   - Configs
-    - none
+    - [LethalLevelLoader](https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader)
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
