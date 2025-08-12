@@ -10,7 +10,7 @@
     - none
 - Updates
   - Modpack
-    - none
+    - Moratorium - [0.6.0](https://github.com/Apollonu/Moratorium/blob/main/CHANGELOG.md)
   - Mods
     - none
   - Configs
