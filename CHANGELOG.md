@@ -17,6 +17,7 @@
   - Mods
     - none
   - Configs
+    - [LC Office](https://thunderstore.io/c/lethal-company/p/Piggy/LC_Office)
     - [LethalLevelLoader](https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader)
   - Resourcepacks / Shaderpacks
     - none
