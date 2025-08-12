@@ -5,7 +5,8 @@
 
 - Additions
   - Mods
-    - none
+    - LC Office - [2.3.3](https://thunderstore.io/c/lethal-company/p/Piggy/LC_Office/v/2.3.3) + DungeonGenerationPlus - [1.4.1](https://thunderstore.io/c/lethal-company/p/Alice/DungeonGenerationPlus/v/1.4.1)
+    - Maritopia - [0.9.4](https://thunderstore.io/c/lethal-company/p/Tolian/Maritopia/v/0.9.4) + JLL - [1.9.8](https://thunderstore.io/c/lethal-company/p/JacobG5/JLL/v/1.9.8) + LethalLevelLoader - [1.4.11](https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/v/1.4.11)
   - Resourcepacks / Shaderpacks
     - none
 - Updates
